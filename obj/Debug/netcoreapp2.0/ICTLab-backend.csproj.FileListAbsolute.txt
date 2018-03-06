@@ -1,0 +1,11 @@
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\bin\Debug\netcoreapp2.0\ICTLab-backend.deps.json
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\bin\Debug\netcoreapp2.0\ICTLab-backend.runtimeconfig.json
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\bin\Debug\netcoreapp2.0\ICTLab-backend.runtimeconfig.dev.json
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\bin\Debug\netcoreapp2.0\ICTLab-backend.dll
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\bin\Debug\netcoreapp2.0\ICTLab-backend.pdb
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.csproj.CoreCompileInputs.cache
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.AssemblyInfoInputs.cache
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.AssemblyInfo.cs
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.dll
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.pdb
+C:\Users\Jurgen\Documents\ICTLab-backend\ICTLab-backend\obj\Debug\netcoreapp2.0\ICTLab-backend.csprojResolveAssemblyReference.cache
