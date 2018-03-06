@@ -1,0 +1,73 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/optima/Projects/ordersysteem-backend/ordersysteem-backend.csproj",
+    "projectName": "ordersysteem-backend",
+    "projectPath": "/home/optima/Projects/ordersysteem-backend/ordersysteem-backend.csproj",
+    "outputPath": "/home/optima/Projects/ordersysteem-backend/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNetCore.Cors": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "2.0.1"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Npgsql": {
+          "target": "Package",
+          "version": "3.2.5"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Swashbuckle": {
+          "target": "Package",
+          "version": "5.6.0"
+        },
+        "SwashBuckle.AspNetCore.MicrosoftExtensions": {
+          "target": "Package",
+          "version": "0.4.0"
+        },
+        "Swashbuckle.AspNetCore.SwaggerUI": {
+          "target": "Package",
+          "version": "1.0.0"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.3.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

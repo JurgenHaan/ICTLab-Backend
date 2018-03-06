@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_ordersysteem-backend.-882348078.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="Controllers" t="Include">
+        <e p="CustomerController.cs" t="Include" />
+        <e p="DeelProductController.cs" t="Include" />
+        <e p="OrderController.cs" t="Include" />
+        <e p="ProductController.cs" t="Include" />
+        <e p="UserController.cs" t="Include" />
+        <e p="ValuesController.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="ActiveUser.cs" t="Include" />
+        <e p="Delivery.cs" t="Include" />
+        <e p="LoginRequest.cs" t="Include" />
+        <e p="NewCustomer.cs" t="Include" />
+        <e p="OrderObject.cs" t="Include" />
+        <e p="PageSortRequest.cs" t="Include" />
+        <e p="UpdateCustomer.cs" t="Include" />
+        <e p="validAction.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20180123143559_init.Designer.cs" t="Include" />
+        <e p="20180123143559_init.cs" t="Include" />
+        <e p="DBContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Afleveradres.cs" t="Include" />
+        <e p="Binnenwerk.cs" t="Include" />
+        <e p="Customer.cs" t="Include" />
+        <e p="DBContext.cs" t="Include" />
+        <e p="DeelProduct.cs" t="Include" />
+        <e p="Epub.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="Material.cs" t="Include" />
+        <e p="Order.cs" t="Include" />
+        <e p="Product.cs" t="Include" />
+        <e p="ProductTaak.cs" t="Include" />
+        <e p="Session.cs" t="Include" />
+        <e p="Specificatie.cs" t="Include" />
+        <e p="Taak.cs" t="Include" />
+        <e p="TaakCommit.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+        <e p="UserSession.cs" t="Include" />
+      </e>
+      <e p="PasswordHasher.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Tests" t="Include">
+        <e p="CustomerControllerTest.cs" t="Include" />
+        <e p="OrderContollerTest.cs" t="Include" />
+        <e p="ProductControllerTest.cs" t="Include" />
+        <e p="UserControllerTest.cs" t="Include" />
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.0" t="Include">
+            <e p="ordersysteem-backend.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ordersysteem-backend.csproj" t="IncludeRecursive" />
+      <e p="ordersysteem-backend.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths />
+  </component>
+</project>
